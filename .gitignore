@@ -1,0 +1,7 @@
+# مجلد جنب جنبن MP3 — أكبر من حد GitHub (100MB)
+*.mp3
+*.MP3
+
+# عدم تتبع ملفات النظام
+Thumbs.db
+desktop.ini
